@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://leodev.cv">leodev.cv</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/opencoredev">OpenCore</a>
-</p>
-
 # Hey, I'm Leo 👋
 
 I'm a 14 y/o developer building open-source and open-core tools around AI agents, developer workflows, SDKs, CLIs, and local-first software.
@@ -16,7 +10,6 @@ Most of my public work happens through [OpenCore](https://github.com/opencoredev
 | --- | --- | --- |
 | [Amend.sh](https://amend.sh) | Active beta | Product update automation that connects shipped work, feedback, changelogs, roadmaps, and customer notifications. |
 | Agent Center | Not released yet | A control plane for running, steering, and reviewing background coding agents. No public GitHub link yet. |
-| [ccsync](https://github.com/opencoredev/cc-sync) | Active | A Bun CLI and sync service for keeping agent skills and MCP configuration in sync across machines. |
 | [Beppo](https://github.com/opencoredev/beppo) | Active WIP | A desktop workspace for delegating general tasks to AI agents, with progress you can inspect and steer. |
 | [Email SDK](https://github.com/opencoredev/email-sdk) | Public | A TypeScript email SDK with one clean API, swappable adapters, fallbacks, hooks, a CLI, and docs. |
 
@@ -26,7 +19,9 @@ Most of my public work happens through [OpenCore](https://github.com/opencoredev
 
 ## Older projects
 
-OSSChat / [OpenChat](https://github.com/opencoredev/openchat) is still open source, but it is older work and not my current focus.
+| Project | Status | What it is |
+| --- | --- | --- |
+| OSSChat / [OpenChat](https://github.com/opencoredev/openchat) | Older project | Open-source AI chat platform. Still open source, just not my current focus. |
 
 ## Links
 
